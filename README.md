@@ -1,5 +1,7 @@
 # Treehouse Techdegree unit-02
 
+This web page breaks up a long list of students into pages and allows them to be searched.
+
 This script assumes an html document containing a body with a .page
   div. The div contains a list of students as li elements in a ul element.
   This script will initially display the first ten names in the list and 
